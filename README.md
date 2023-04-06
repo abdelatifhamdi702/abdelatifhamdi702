@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science Course**
 
-- 👨‍💻 All of my projects are available at [https://abdelatif-hamdi.me/](https://abdelatif-hamdi.me/)
+- 👨‍💻 All of my projects are available at [https://abdelatifhamdi.site/](https://abdelatifhamdi.site/)
 
 - 💬 Ask me about **MERN Stack and Java Desktop Development**
 
