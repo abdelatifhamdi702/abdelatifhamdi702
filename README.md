@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdelatifhamdi702@gmail.com**
 
-- 📄 Know about my experiences [https://abdelatif-hamdi.me/CV%20Abdelatif%20Hamdi.pdf](https://abdelatif-hamdi.me/CV%20Abdelatif%20Hamdi.pdf)
+- 📄 Know about my experiences [https://abdelatifhamdi.site/CV%20Abdelatif%20Hamdi.pdf](https://abdelatifhamdi.site/CV%20Abdelatif%20Hamdi.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
