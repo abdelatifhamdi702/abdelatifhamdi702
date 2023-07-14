@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN Stack and Java Desktop Development**
 
-- 📫 How to reach me **abdelatifhamdi702@gmail.com**
+- 📫 How to reach me **abdelatif.hamdi.cs@gmail.com**
 
 - 📄 Know about my experiences [https://abdelatifhamdi.site/CV%20Abdelatif%20Hamdi.pdf](https://abdelatifhamdi.site/CV%20Abdelatif%20Hamdi.pdf)
 
