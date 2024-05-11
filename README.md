@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Data Science Course**
 
-- 👨‍💻 All of my projects are available at [https://abdelatifhamdi.site/](https://abdelatifhamdi.site/)
+- 👨‍💻 All of my projects are available at [https://abdelatif-hamdi.web.app/](https://abdelatif-hamdi.web.app/)
 
 - 💬 Ask me about **MERN Stack and Java Desktop Development**
 
 - 📫 How to reach me **abdelatif.hamdi.cs@gmail.com**
 
-- 📄 Know about my experiences [https://abdelatifhamdi.site/CV%20Abdelatif%20Hamdi.pdf](https://abdelatifhamdi.site/CV%20Abdelatif%20Hamdi.pdf)
+- 📄 Know about my experiences [https://abdelatif-hamdi.web.app/CV%20Abdelatif%20Hamdi.pdf](https://abdelatif-hamdi.web.app/CV%20Abdelatif%20Hamdi.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
