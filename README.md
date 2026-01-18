@@ -3,8 +3,8 @@
   Software Engineer | Frontend Engineer | Data Science Researcher
 </h3>
 
-- 🚀 **Technical Lead at ProvenMed** – Leading the development of the **Livv Project**, an AI-powered digital healthcare platform.
-- 💼 **React Developer at Alpha Programming**, building responsive web apps with React.js and Tailwind CSS.
+- 🚀 **Technical Lead at DeepMinds** – Leading the development of the **Livv Project**, an AI-powered digital healthcare platform.
+- 💼 **Frontend Engineer at Alpha Programming**, building responsive web apps with React.js and Tailwind CSS.
 - 💻 **Freelance Full Stack Developer** since 2019 — delivering performant, scalable websites, APIs, and mobile applications.
 - 🎓 **PhD Candidate in Artificial Intelligence** at the University of Laghouat, specializing in **Data Science in Cybersecurity**.
 - 🧠 Passionate about solving real-world problems through technology, AI, and innovation.
